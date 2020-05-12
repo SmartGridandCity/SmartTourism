@@ -1,6 +1,6 @@
 # Difference between flows
 
-The following graphics display the difference, in percent of incoming flow from area i to aera j, between a defined Nationality and the overall dataset.
+The following graphics display the difference, in percent of outgoing flow from area i to aera j, between a defined Nationality and the overall dataset.
 
 Diff-flow Australia       | Diff-flow Belgium       |
 :-------------------------:|:-------------------------:|
