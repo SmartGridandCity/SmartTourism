@@ -39,7 +39,7 @@ Statistics             |  Commuters at 5%
 
 Statistics             |  Commuters at 5%
 :-------------------------:|:-------------------------:
-![](statmatBrasil.png)  |  No dominant flows.
+![](statmatBrazil.png)  |  No dominant flows.
 
 5. Taking into account comments by Canada's user: 989 flows from 255 users
 
