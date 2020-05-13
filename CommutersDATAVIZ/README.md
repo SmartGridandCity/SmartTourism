@@ -7,8 +7,8 @@ The statmat function provides for a source origin matrix a certain number of use
 With regard to selection, three families of methods are implemented:
 
 - classic dominant flows
-- local criteria (for each summit, keep the flows obeying such criteria)
-- global criteria (considering all flows, keep those obeying such criteria).
+- local criteria (for each summit, keep the flows satisfying such criteria)
+- global criteria (considering all flows, keep those satisfying such criteria).
 
 In our methods, we choose global criterion to analyse the most used paths.
 
