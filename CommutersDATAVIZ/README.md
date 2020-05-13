@@ -32,7 +32,7 @@ In our methods, we choose global criterion to analyse the most used paths.
     - mean: 275.7535 
     - sd: 2104.854 
 
-Statistics             |  Commuters at 5%
+Statistics             |  Commuters
 :-------------------------:|:-------------------------:
 ![](statmatGlobal.png)  |  ![](commutersGLOBAL.png)
 
@@ -51,7 +51,7 @@ Statistics             |  Commuters at 5%
     - mean: 10.76378 
     - sd: 42.32836 
 
-Statistics             |  Commuters at 5%
+Statistics             |  Commuters
 :-------------------------:|:-------------------------:
 ![](statmatAustralia.png)  |  ![](commutersAustralia.png)
 
@@ -70,7 +70,7 @@ Statistics             |  Commuters at 5%
     - mean: 54.66118 
     - sd: 316.4072 
 
-Statistics             |  Commuters at 5%
+Statistics             |  Commuters
 :-------------------------:|:-------------------------:
 ![](statmatBelgium.png)  |  ![](commutersBelgium.png)
 
@@ -89,7 +89,7 @@ Statistics             |  Commuters at 5%
     - mean: 9.575758 
     - sd: 41.59107
 
-Statistics             |  Commuters at 5%
+Statistics             |  Commuters
 :-------------------------:|:-------------------------:
 ![](statmatBrazil.png)  |  No dominant flows.
 
@@ -108,7 +108,7 @@ Statistics             |  Commuters at 5%
     - mean: 8.106557 
     - sd: 25.35461 
 
-Statistics             |  Commuters at 5%
+Statistics             |  Commuters
 :-------------------------:|:-------------------------:
 ![](statmatCanada.png)  |  ![](commutersCanada.png)
 
@@ -127,7 +127,7 @@ Statistics             |  Commuters at 5%
     - mean: 205.8421 
     - sd: 1596.727 
 
-Statistics             |  Commuters at 5%
+Statistics             |  Commuters
 :-------------------------:|:-------------------------:
 ![](statmatFrance.png)  |  ![](commutersFrance.png)
 
@@ -146,7 +146,7 @@ Statistics             |  Commuters at 5%
     - mean: 8.189189 
     - sd: 23.93837
 
-Statistics             |  Commuters at 5%
+Statistics             |  Commuters
 :-------------------------:|:-------------------------:
 ![](statmatGermany.png)  |  ![](commutersGermany.png)
 
@@ -165,7 +165,7 @@ Statistics             |  Commuters at 5%
     - mean: 9.094118 
     - sd: 39.7354
 
-Statistics             |  Commuters at 5%
+Statistics             |  Commuters
 :-------------------------:|:-------------------------:
 ![](statmatItaly.png)  |  ![](commutersItaly.png)
 
@@ -184,7 +184,7 @@ Statistics             |  Commuters at 5%
     - mean: 14.80851 
     - sd: 100.9047
 
-Statistics             |  Commuters at 5%
+Statistics             |  Commuters
 :-------------------------:|:-------------------------:
 ![](statmatNetherlands.png)  |  ![](commutersNetherlands.png)
 
@@ -203,7 +203,7 @@ Statistics             |  Commuters at 5%
     - mean: 7.761062 
     - sd: 31.0832 
 
-Statistics             |  Commuters at 5%
+Statistics             |  Commuters
 :-------------------------:|:-------------------------:
 ![](statmatRussia.png)  |  ![](commutersRussia.png)
 
@@ -222,7 +222,7 @@ Statistics             |  Commuters at 5%
     - mean: 7.851852 
     - sd: 25.16258 
 
-Statistics             |  Commuters at 5%
+Statistics             |  Commuters
 :-------------------------:|:-------------------------:
 ![](statmatSpain.png)  |  ![](commutersSpain.png)
 
@@ -241,7 +241,7 @@ Statistics             |  Commuters at 5%
     - mean: 6.72449 
     - sd: 28.95634 
 
-Statistics             |  Commuters at 5%
+Statistics             |  Commuters
 :-------------------------:|:-------------------------:
 ![](statmatSwitzerland.png)  |  ![](commutersSwitzerland.png)
 
@@ -260,7 +260,7 @@ Statistics             |  Commuters at 5%
     - mean: 50.59067 
     - sd: 283.8452 
 
-Statistics             |  Commuters at 5%
+Statistics             |  Commuters
 :-------------------------:|:-------------------------:
 ![](statmatUK.png)  |  ![](commutersUK.png)
 
