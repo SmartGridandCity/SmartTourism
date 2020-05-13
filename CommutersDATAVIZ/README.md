@@ -35,7 +35,7 @@ Statistics             |  Commuters at 5%
 :-------------------------:|:-------------------------:
 ![](statmatBelgium.png)  |  ![](commutersBelgium.png)
 
-4. Taking into account comments by Brasil's user: 632 flows from 129 users
+4. Taking into account comments by Brazil's user: 632 flows from 129 users
 
 Statistics             |  Commuters at 5%
 :-------------------------:|:-------------------------:
