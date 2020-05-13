@@ -279,6 +279,6 @@ Statistics             |  Commuters
     - mean: 10.63542 
     - sd: 42.21427 
 
-Statistics             |  Commuters at 5%
+Statistics             |  Commuters
 :-------------------------:|:-------------------------:
 ![](statmatUSA.png)  |  ![](commutersUSA.png)
