@@ -12,6 +12,6 @@
 
 Dataset A is used for basic statistics
 
-Dataset B is used to build the flows, diff-flow, inverted-diff-flow, commuters
+Dataset B is used to build the flows, diff-flow, inverted-diff-flow, commuters: 63% of date gap are below 7 days.
 
 Dataset C is used to build Repeters and Consecutuve Repeters
