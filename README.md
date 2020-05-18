@@ -1,5 +1,5 @@
 # SmartTourism
-R script to analyse tourism traffic in a area
+R script to analyse tourism traffic in an area
 
 | Steps |     Source    |
 |:-----:|:-------------------:|
