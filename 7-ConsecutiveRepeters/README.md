@@ -67,3 +67,12 @@ Amount of comments           |
 Outgoing flows              | Incoming flows 
 :-------------------------:|:-------------------------:
 ![](repet1718belgiumflow.png)  |  ![](repet1718belgiuminv.png)
+
+## Repeters during the same years
+
+- Repeters during the same year per month and per nationality
+![](repetersameyearcountry.png) 
+
+- Repeters during the same year 2017 per month, per nationality and per GID
+![](repetersameyear2017GID.png) 
+
