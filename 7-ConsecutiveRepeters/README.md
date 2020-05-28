@@ -42,3 +42,28 @@
 2015 to 2018               | 2016 to 2019  
 :-------------------------:|:-------------------------:
 ![](repet15-18country.png)  |  ![](repet16-19country.png)
+
+## Two consecutive years, based in GID
+
+- For french tourists, repeters in 2017-2018
+
+Amount of comments           | 
+:-------------------------:|
+![](repet1718france.png)  |
+
+
+Outgoing flows              | Incoming flows 
+:-------------------------:|:-------------------------:
+![](repet1718franceflow.png)  |  ![](repet1718franceinv.png)
+
+
+- For belgium tourists, repeters in 2017-2018
+
+Amount of comments           | 
+:-------------------------:|
+![](repet1718belgium.png)  |
+
+
+Outgoing flows              | Incoming flows 
+:-------------------------:|:-------------------------:
+![](repet1718belgiumflow.png)  |  ![](repet1718belgiuminv.png)
