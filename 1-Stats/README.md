@@ -13,9 +13,15 @@
 5. Percent of user for each nationality which came only on week-end per month (1 to 12)
 ![](visituseronlywedividebytotal.png)
 
-6. Number of users of eachnationality per month per GID (1 to 12)
+6. Number of users of each nationality per month per GID (1 to 12)
 ![](visitgid3.png)
 
-6. Number of users of eachnationality per month per GID which came only on week-end(1 to 12)
+6. Number of users of each nationality per month per GID which came only on week-end(1 to 12)
 ![](visitGID3weonly.png)
+
+7. Number of users of each nationality per month per GID for the first visited place 
+![](firstvisited.png)
+
+8. Number of users of each nationality per month per GID for the last visited place 
+![](lastplacevisited.png)
 
