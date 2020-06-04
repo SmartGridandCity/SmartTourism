@@ -16,6 +16,13 @@
 :-------------------------:|:-------------------------:
 ![](repet1718country.png)  |  ![](repet1819country.png)
 
+## Percents of tourists which are repeters by GID and by month
+
+2017              | 
+:-------------------------:|
+![](repeterperc.png)  |  
+ 	
+
 ## Three consecutives years
 
 2013 to 2015            |  2014 to 2016    
